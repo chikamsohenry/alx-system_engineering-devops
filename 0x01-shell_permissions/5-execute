@@ -1,2 +1,2 @@
 #!/bin/bash
-sudo chmond 701 hello
+sudo chmond 704 hello
